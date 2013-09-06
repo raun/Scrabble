@@ -3,7 +3,7 @@ import random
 import string
 
 VOWELS = 'aeiou'
-CONSONANTS = ''bcdfghjklmnpqrstvwxyz
+CONSONANTS = 'bcdfghjklmnpqrstvwxyz'
 HAND_SIZE =7 
 
 SCRABBLE_LETTER_VALUES = {
